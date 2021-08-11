@@ -46,7 +46,7 @@ let questions = [
   {
     id: 8,
     question: "What is the place value of 7 in the number 87965 ",
-    answer: "Ten thousand",
+    answer: "Thousand",
     options: ["Ten Hundred ", "Thousand", "Ten thousand", "Tens"],
   },
   {
