@@ -2,7 +2,7 @@ let questions = [
   {
     id: 1,
     question: "How many major 'seas' are present in the world",
-    answer: "IVIII",
+    answer: "7",
     options: ["7", "13", "11", "12"],
   },
   {
