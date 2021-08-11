@@ -31,7 +31,7 @@ let questions = [
   {
     id: 5,
     question: " A leap year has how many days?",
-    answer: "145",
+    answer: "None of these",
     options: ["None of these", "377", "376", "370"],
   },
   {
