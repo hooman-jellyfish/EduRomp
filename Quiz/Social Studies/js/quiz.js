@@ -36,7 +36,7 @@ let questions = [
   },
   {
     id: 6,
-    question: "Mount Everest id the hightest ____?",
+    question: "Mount Everest is the hightest ____?",
     answer: "Moutain",
     options: ["Moutain", "Hill", "Plateau", "Valley"],
   },
