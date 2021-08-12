@@ -82,6 +82,23 @@ h3 a {color: #5a5816}
   margin-left: -53px;
 }
 
+.button_home {
+  width: 105px;
+  height: 31px;
+  display: block;
+  border: 1.8px solid #000000;
+  border-radius: 30px;
+  text-align: center;
+  color:  #000;
+  font-size: 15px;
+  line-height: 31px;
+  text-decoration: none;
+  position: absolute;
+  left: 50%;
+  bottom: 50px;
+  margin-left: -60px;
+}
+
 .button.tweet {bottom: 100px; background-position: 0 -90px}
 .button.fb {bottom: 150px; background-position: 0 -60px}
 
